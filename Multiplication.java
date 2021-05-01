@@ -21,10 +21,3 @@ public class Multiplication {
         System.out.println(out);
         }
     }
-
-
- //       for (int i = 1; i <= 10; i++){
- //               for (int n = 1; n <= 10; n++){
- //               System.out.print(i*n + " ");
- //               }
- //               }
